@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfoliyo_jatin/static/css/main.bf538fe7.css",
-    "main.js": "/portfoliyo_jatin/static/js/main.de713217.js",
-    "static/media/hero.jpg": "/portfoliyo_jatin/static/media/hero.0903be9e3dea9ffe4281.jpg",
-    "index.html": "/portfoliyo_jatin/index.html",
-    "main.bf538fe7.css.map": "/portfoliyo_jatin/static/css/main.bf538fe7.css.map",
-    "main.de713217.js.map": "/portfoliyo_jatin/static/js/main.de713217.js.map"
+    "main.css": "/jitendramakwana.me/static/css/main.bf538fe7.css",
+    "main.js": "/jitendramakwana.me/static/js/main.de713217.js",
+    "static/media/hero.jpg": "/jitendramakwana.me/static/media/hero.0903be9e3dea9ffe4281.jpg",
+    "index.html": "/jitendramakwana.me/index.html",
+    "main.bf538fe7.css.map": "/jitendramakwana.me/static/css/main.bf538fe7.css.map",
+    "main.de713217.js.map": "/jitendramakwana.me/static/js/main.de713217.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
