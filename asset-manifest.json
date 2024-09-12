@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jitendramakwana.me/static/css/main.bf538fe7.css",
-    "main.js": "/jitendramakwana.me/static/js/main.06efa42f.js",
+    "main.js": "/jitendramakwana.me/static/js/main.6bb0958c.js",
     "static/media/iconadvisory.png": "/jitendramakwana.me/static/media/iconadvisory.02725f7926ef7dd4683c.png",
     "static/media/primier.png": "/jitendramakwana.me/static/media/primier.969026e17da25a4f29e7.png",
     "static/media/Sunrays.png": "/jitendramakwana.me/static/media/Sunrays.5c81ad21c3f79787eef8.png",
@@ -9,10 +9,10 @@
     "static/media/hero.jpg": "/jitendramakwana.me/static/media/hero.0903be9e3dea9ffe4281.jpg",
     "index.html": "/jitendramakwana.me/index.html",
     "main.bf538fe7.css.map": "/jitendramakwana.me/static/css/main.bf538fe7.css.map",
-    "main.06efa42f.js.map": "/jitendramakwana.me/static/js/main.06efa42f.js.map"
+    "main.6bb0958c.js.map": "/jitendramakwana.me/static/js/main.6bb0958c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.06efa42f.js"
+    "static/js/main.6bb0958c.js"
   ]
 }
