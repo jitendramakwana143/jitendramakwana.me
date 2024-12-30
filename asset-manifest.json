@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfoliyo_jatin/static/css/main.bf538fe7.css",
-    "main.js": "/portfoliyo_jatin/static/js/main.6050f111.js",
-    "static/media/kesar.png": "/portfoliyo_jatin/static/media/kesar.5bcd42de70773d2126e9.png",
-    "static/media/iim.png": "/portfoliyo_jatin/static/media/iim.16853ed016654c3aae0a.png",
-    "static/media/IC.png": "/portfoliyo_jatin/static/media/IC.7e12d7cd1d358b2c0306.png",
-    "static/media/primier.png": "/portfoliyo_jatin/static/media/primier.969026e17da25a4f29e7.png",
-    "static/media/jjhs.png": "/portfoliyo_jatin/static/media/jjhs.ecd6ec719d91fb1bdf96.png",
-    "static/media/Sunrays.png": "/portfoliyo_jatin/static/media/Sunrays.5c81ad21c3f79787eef8.png",
-    "static/media/book.png": "/portfoliyo_jatin/static/media/book.075c65a2be0a3a2fd393.png",
-    "static/media/tradifyme.png": "/portfoliyo_jatin/static/media/tradifyme.c91d79c7ab90879f10ad.png",
-    "static/media/hero.jpg": "/portfoliyo_jatin/static/media/hero.0903be9e3dea9ffe4281.jpg",
-    "static/media/music.png": "/portfoliyo_jatin/static/media/music.a6519dcaa11ecef6abc4.png",
-    "index.html": "/portfoliyo_jatin/index.html",
-    "main.bf538fe7.css.map": "/portfoliyo_jatin/static/css/main.bf538fe7.css.map",
-    "main.6050f111.js.map": "/portfoliyo_jatin/static/js/main.6050f111.js.map"
+    "main.css": "/jitendramakwana.me/static/css/main.bf538fe7.css",
+    "main.js": "/jitendramakwana.me/static/js/main.88f6fc8c.js",
+    "static/media/kesar.png": "/jitendramakwana.me/static/media/kesar.5bcd42de70773d2126e9.png",
+    "static/media/iim.png": "/jitendramakwana.me/static/media/iim.16853ed016654c3aae0a.png",
+    "static/media/IC.png": "/jitendramakwana.me/static/media/IC.7e12d7cd1d358b2c0306.png",
+    "static/media/primier.png": "/jitendramakwana.me/static/media/primier.969026e17da25a4f29e7.png",
+    "static/media/jjhs.png": "/jitendramakwana.me/static/media/jjhs.ecd6ec719d91fb1bdf96.png",
+    "static/media/Sunrays.png": "/jitendramakwana.me/static/media/Sunrays.5c81ad21c3f79787eef8.png",
+    "static/media/book.png": "/jitendramakwana.me/static/media/book.075c65a2be0a3a2fd393.png",
+    "static/media/tradifyme.png": "/jitendramakwana.me/static/media/tradifyme.c91d79c7ab90879f10ad.png",
+    "static/media/hero.jpg": "/jitendramakwana.me/static/media/hero.0903be9e3dea9ffe4281.jpg",
+    "static/media/music.png": "/jitendramakwana.me/static/media/music.a6519dcaa11ecef6abc4.png",
+    "index.html": "/jitendramakwana.me/index.html",
+    "main.bf538fe7.css.map": "/jitendramakwana.me/static/css/main.bf538fe7.css.map",
+    "main.88f6fc8c.js.map": "/jitendramakwana.me/static/js/main.88f6fc8c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.6050f111.js"
+    "static/js/main.88f6fc8c.js"
   ]
 }
