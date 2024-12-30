@@ -2,6 +2,14 @@
 import project2 from '../images/tradifyme.png'
 import project3 from '../images/primier.png'
 import project4 from '../images/Sunrays.png'
+import project5 from '../images/IC.png'
+import project6 from '../images/jjhs.png'
+import project7 from '../images/kesar.png'
+import project8 from '../images/music.png'
+import project9 from '../images/book.png'
+import project66 from '../images/iim.png'
+
+import iws from '../images/iws.jpeg'
 export const Bio = {
   name: "Jitendra Makwana",
   roles: [
@@ -10,10 +18,10 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and adaptable professional, eager to embrace challenges and learn continuously. With a strong commitment to delivering high-quality results, I approach every opportunity with a positive attitude and growth mindset, aiming to make meaningful contributions and drive success in all my endeavors.",
   github: "https://github.com/jitendramakwana143",
   resume:
-    "https://drive.google.com/file/d/1n5yDMX9l30qxVvRgk5om10hXi179uY-o/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Sv3HJrVFnDKF5D2Ahj-a7qBLixa30HpX/view?usp=sharing",
   linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
   twitter: "https://twitter.com/jitendrama23861",
   // insta: "https://www.instagram.com/rishav_chanda/",
@@ -176,7 +184,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4D0BAQFe7-MTuaq_mA/company-logo_200_200/company-logo_200_200/0/1630410602022/india_websoft_logo?e=1733961600&v=beta&t=mXI8oSCIUwui_Xov1E7gk2HX6k_FbEGoLOq6xotFt5I",
+    img: `${iws}`,
     role: "Fullstack Engineering Intern",
     company: "@IndiaWebSoft",
     date: "March 2024 - Present",
@@ -192,7 +200,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4D0BAQFe7-MTuaq_mA/company-logo_200_200/company-logo_200_200/0/1630410602022/india_websoft_logo?e=1733961600&v=beta&t=mXI8oSCIUwui_Xov1E7gk2HX6k_FbEGoLOq6xotFt5I",
+    img: `${iws}`,
     role: "Frontend Engineer Intern",
     company: "@IndiaWebSoft",
     date: "Feb 2023 - Apirl 2023",
@@ -332,6 +340,139 @@ export const projects = [
       // },
     ],
   },
+  {
+    id: 0,
+    title: "Icone Capital",
+    date: "Oct 2024",
+    description:
+      "Developed Icone Capital with HTML , CSS , JS , PHP, and MYQL database",
+        image:
+      `${project5}`,
+    tags: ["HTML , CSS , JS , PHP,  MYQL"],
+    category: "web app",
+    Live: "https://iconecapital.com/",
+    webapp: "https://iconecapital.com/",
+    member: [
+      {
+        name: "Jitedra Makwana",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
+        linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
+        github: "https://github.com/jitendramakwana143/",
+      },
+      // {
+      //   name: "Upasana Chaudhuri",
+      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+      //   github: "https://github.com/upasana0710",
+      // },
+    ],
+  },
+  {
+    id: 0,
+    title: "Jeevan Jyothi High School",
+    date: "Oct 2024",
+    description:
+      "Developed Jeevan Jyothi High School with HTML , CSS , JS , React js , Node js , bootstrap , and Mongo database",
+        image:
+      `${project6}`,
+    tags: ["HTML , CSS , JS , React js ,  MongoDb"],
+    category: "web app",
+    Live: "https://jjhs.in/",
+    webapp: "https://jjhs.in/",
+    member: [
+      {
+        name: "Jitedra Makwana",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
+        linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
+        github: "https://github.com/jitendramakwana143/",
+      },
+     
+    ],
+  },
+  {
+    id: 0,
+    title: "IIM Services",
+    date: "Nov 2024",
+    description:
+      "Developed IIM Services with HTML , CSS , JS , bootstrap  and MySql",
+        image:
+      `${project66}`,
+    tags: ["HTML , CSS , JS , PHP,  MySql"],
+    category: "web app",
+    Live: "https://iimservices.com/",
+    webapp: "https://iimservices.com/",
+    member: [
+      {
+        name: "Jitedra Makwana",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
+        linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
+        github: "https://github.com/jitendramakwana143/",
+      },
+    ],
+  },
+  {
+    id: 0,
+    title: "Kesar Ayurveda",
+    date: "Nov 2024",
+    description:
+      "Developed Kesar Ayurveda with HTML , CSS , JS , bootstrap  and MySql",
+        image:
+      `${project7}`,
+    tags: ["HTML , CSS , JS , PHP,  MySql"],
+    category: "web app",
+    Live: "#",
+    webapp: "#",
+    member: [
+      {
+        name: "Jitedra Makwana",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
+        linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
+        github: "https://github.com/jitendramakwana143/",
+      },
+    ],
+  },
+  {
+    id: 0,
+    title: "Music Application DarkMix",
+    date: "Nov 2024",
+    description:
+      "Developed DarkMix with Flutter , Firebase , State Management ",
+        image:
+      `${project8}`,
+    tags: ["Flutter , Firebase , XML , Rest API,  State Management "],
+    category: "android app",
+    Live: "#",
+    webapp: "#",
+    member: [
+      {
+        name: "Jitedra Makwana",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
+        linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
+        github: "https://github.com/jitendramakwana143/",
+      },
+    ],
+  },
+  {
+    id: 0,
+    title: " Book Recommendation System ",
+    date: "Nov 2024",
+    description:
+      "I developed a Book Recommendation System that allows users to search for books and receive personalized recommendations based on their interests ",
+        image:
+      `${project9}`,
+    tags: ["DJango , Python , ML (Algorithms) ,Jupitar Notebook,  Books Datasets "],
+    category: "machine learning",
+    Live: "#",
+    webapp: "https://github.com/jitendramakwana143/Book_Recommendation_System",
+    member: [
+      {
+        name: "Jitedra Makwana",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
+        linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
+        github: "https://github.com/jitendramakwana143/",
+      },
+    ],
+  },
 ];
 
 export const TimeLineData = [
@@ -341,3 +482,4 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
