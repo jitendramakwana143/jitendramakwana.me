@@ -226,7 +226,7 @@ export const education = [
     school: "Chameli Devi Group of Institutions",
     date: "June 2020 - June 2024",
     grade: "8.19 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Information Technology at Chameli Devi Group of Institutions, Indore (M.P).",
+    desc: "I have completed my Bachelor's degree in Information Technology from Chameli Devi Group of Institutions, Indore (M.P). The program provided me with a solid foundation in various areas of information technology, preparing me for a successful career in the field.",
     degree: "Bachelor of Technology - BTech, Information Technology",
   },
   {
