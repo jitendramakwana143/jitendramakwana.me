@@ -21,7 +21,7 @@ export const Bio = {
     "I am a motivated and adaptable professional, eager to embrace challenges and learn continuously. With a strong commitment to delivering high-quality results, I approach every opportunity with a positive attitude and growth mindset, aiming to make meaningful contributions and drive success in all my endeavors.",
   github: "https://github.com/jitendramakwana143",
   resume:
-    "https://drive.google.com/file/d/1Sv3HJrVFnDKF5D2Ahj-a7qBLixa30HpX/view?usp=sharing",
+    "https://drive.google.com/file/d/162QAJpHk6Jvy8GVor4J0cym4SA5xsIKu/view?usp=sharing",
   linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
   twitter: "https://twitter.com/jitendrama23861",
   // insta: "https://www.instagram.com/rishav_chanda/",
